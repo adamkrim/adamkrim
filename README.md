@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **NextJS and TailwindCSS**
 
+- 👨🏻‍🎓 I have a master 2 degree in Computer Science from [EPITECH University](https://www.epitech.eu/)
+
 - 📫 **adamkrim.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
